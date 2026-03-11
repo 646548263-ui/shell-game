@@ -9,4 +9,4 @@
 - 选择你认为有小球的杯子
 
 ## 在线玩
-https://neowong.github.io/shell-game/
+https://646548263-ui.github.io/shell-game/
